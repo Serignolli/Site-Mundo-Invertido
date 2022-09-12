@@ -12,5 +12,5 @@
  
  ## Links
  * [Acesse o Site](https://serignolli.github.io/Site-Mundo-Invertido/)
- * [Acesse a plataforma da DIO](dio.me)
+ * [Acesse a plataforma da DIO](https://web.dio.me/home)
  * [Acesse meu perfil da DIO](https://web.dio.me/users/tayseri?tab=achievements)
