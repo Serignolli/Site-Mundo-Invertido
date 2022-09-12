@@ -13,3 +13,4 @@
  ## Links
  * [Acesse o Site](https://serignolli.github.io/Site-Mundo-Invertido/)
  * [Acesse a plataforma da DIO](https://web.dio.me/home)
+ * [Acesse meu Linkdin](https://www.linkedin.com/in/gabriel-moreno-serignolli-317518222/)
